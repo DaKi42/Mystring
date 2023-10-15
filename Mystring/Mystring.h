@@ -30,4 +30,4 @@ public:
     int my_strcmp(const Mystring& data);
     Mystring(initializer_list<char> p);
     static int count;
-};
+}; 

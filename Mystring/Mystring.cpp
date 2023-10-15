@@ -11,7 +11,7 @@ Mystring::Mystring()
         str[i] = ' ';
     }
     str[length] = '\0';
-
+     
     count++;
 }
 

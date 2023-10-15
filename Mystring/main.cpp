@@ -113,7 +113,7 @@ int main()
 {
     Mystring str1;
     Mystring str2("ITSTEP University");
-    Mystring str3("My name is Ilya");
+    Mystring str3("My name is Illia");
 
     cout << "str1: " << str1.get_string() << endl;
     cout << "str2: " << str2.get_string() << endl;
